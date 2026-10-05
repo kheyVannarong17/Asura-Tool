@@ -1,6 +1,6 @@
 {
-  "version": "1.0.0",
+  "version": "1.0.1",
   "release_date": "2026-10-05",
-  "download_url": "https://github.com/kheyVannarong17/Asura-Tool/releases/latest/download/AsuraTool.exe",
-  "changelog": "- ជួសជុលបញ្ហាលោតផ្ទាំង Terminal រំខាន\n- បន្ថែម Progress Bar បង្ហាញភាគរយពេលបង្កើតសម្លេង AI\n- បន្ថែម Progress Dialog បង្ហាញដំណាក់កាលពេល Render វីដេអូ\n- បន្ថែមមុខងារ In-App Auto-Upgrade ដោយស្វ័យប្រវត្តិ"
+  "download_url": "https://github.com/kheyVannarong17/Asura-Tool/releases/download/v1.0.1/AsuraTool.exe",
+  "changelog": "- បន្ថែមមុខងារដាក់ Logo / Watermark លើវីដេអូ (កំណត់ទីតាំង, ទំហំ, ភាពថ្លា និង Live Preview)\n- កែលម្អ GUI លើ Laptop អេក្រង់តូចឱ្យសមាមាត្រស្អាត មិនកកស្ទះ និងងាយស្រួលមើលតារាង Subtitle\n- បង្កើនល្បឿន និងភាពរលូននៃការ Render វីដេអូ"
 }
