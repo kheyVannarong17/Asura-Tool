@@ -2,5 +2,5 @@
   "version": "1.0.4",
   "release_date": "2026-10-07",
   "download_url": "https://github.com/kheyVannarong17/Asura-Tool/releases/latest/download/AsuraTool.exe",
-  "changelog": "- Upgrade GUI ទៅ V1.0.4 ស្អាត Clean និងមានប្រសិទ្ធភាពខ្ពស់\n- បន្ថែមមុខងារ '📋 Copy SRT ដើម' ទៅ Clipboard ភ្លាមៗ (មិនបាច់ Export File)\n- បន្ថែមមុខងារ '📝 Paste SRT ខ្មែរ' ពី Clipboard ចូលតារាងភ្លាមៗ (មិនបាច់ Import File)\n- បន្ថែមមុខងារ Version Manager: អាចជ្រើសរើស Version ដើម្បី Upgrade, Downgrade ឬ Rollback ទៅ Backup ចាស់\n- ដកចេញមុខងារដែលមិនចាំបាច់ (Speed Converter, Voice Clone Presets) ដើម្បីកាត់បន្ថយភាពរញ៉េរញ៉ៃ\n- ជួសជុលប្រព័ន្ធ In-App Upgrade ដោយប្រើ Rename Strategy ការពារការជាប់ Lock លើ Windows"
+  "changelog": "- Upgrade GUI ទៅ V1.0.4 ស្អាត Clean និងមានប្រសិទ្ធភាពខ្ពស់\n- បន្ថែមមុខងារ '📋 Copy SRT ដើម' ទៅ Clipboard ភ្លាមៗ\n- បន្ថែមមុខងារ '📝 Paste SRT ខ្មែរ' ពី Clipboard ចូលតារាងភ្លាមៗ\n- ជួសជុលបញ្ហា Crash លើមុខងារ Copy និង Paste ជោគជ័យ ១០០%\n- បន្ថែមមុខងារ Version Manager: Upgrade, Downgrade ឬ Rollback\n- ដកចេញមុខងារមិនចាំបាច់ដើម្បីកាត់បន្ថយភាពរញ៉េរញ៉ៃ"
 }
