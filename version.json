@@ -1,6 +1,6 @@
 {
-  "version": "1.0.4",
-  "release_date": "2026-10-07",
+  "version": "1.0.5",
+  "release_date": "2026-10-08",
   "download_url": "https://github.com/kheyVannarong17/Asura-Tool/releases/latest/download/AsuraTool.exe",
-  "changelog": "- Upgrade GUI ទៅ V1.0.4 ស្អាត Clean និងមានប្រសិទ្ធភាពខ្ពស់\n- បន្ថែមមុខងារ '📋 Copy SRT ដើម' ទៅ Clipboard ភ្លាមៗ\n- បន្ថែមមុខងារ '📝 Paste SRT ខ្មែរ' ពី Clipboard ចូលតារាងភ្លាមៗ\n- ជួសជុលបញ្ហា Crash លើមុខងារ Copy និង Paste ជោគជ័យ ១០០%\n- បន្ថែមមុខងារ Version Manager: Upgrade, Downgrade ឬ Rollback\n- ដកចេញមុខងារមិនចាំបាច់ដើម្បីកាត់បន្ថយភាពរញ៉េរញ៉ៃ"
+  "changelog": "- រួមបញ្ចូលមុខងារ 'បង្កើតសម្លេង AI' និង 'Render វីដេអូ' ទៅជាប៊ូតុងតែមួយ '⚡🚀 1-Click Auto Magic' មិនបាច់ចុចពីរដងទៀតឡើយ\n- បន្ថែមទីតាំងផ្ទុកវីដេអូច្បាស់លាស់ (Output Folder) ក្នុង GUI អាចផ្លាស់ប្តូរ និងបើក Folder ភ្លាមៗ\n- ដកចេញមុខងារកាត់ជាភាគខ្លីៗ (Split Parts) ពី GUI ដើម្បីភាពស្អាត និង Clean\n- រចនា GUI សាថ្មីទាំងស្រុងបែប Web Application SaaS (Navbar, Hero Section, Breadcrumbs, Quick Metrics, Modal Settings, Footer)\n- បន្ថែមផ្ទាំង Web Settings Modal សម្រាប់កំណត់ Preferences និងសម្លេងលំនាំដើម"
 }
