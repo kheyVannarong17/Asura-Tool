@@ -1,6 +1,6 @@
 {
-  "version": "1.0.6",
-  "release_date": "2026-10-09",
+  "version": "1.0.7",
+  "release_date": "2026-10-14",
   "download_url": "https://github.com/kheyVannarong17/Asura-Tool/releases/latest/download/AsuraTool.exe",
-  "changelog": "- រួមបញ្ចូល FFmpeg v7.1 ស្រាប់ក្នុងកម្មវិធី (Embedded Static FFmpeg)៖ ដំណើរការ 100% លើគ្រប់កុំព្យូទ័រទាំងអស់ ដោយមិនចាំបាច់ដំឡើង FFmpeg លើ Windows ឡើយ (ដោះស្រាយបញ្ហា [WinError 2] The system cannot find the file specified)\n- ប្រើប្រាស់ PyAV (In-process Metadata Inspection) ពិនិត្យ Video Duration & Dimensions លឿន 0.01 វិនាទី និងមិនត្រូវការ ffprobe.exe ឡើយ\n- ជួសជុលបញ្ហា Permissions [WinError 5] Access is denied នៅពេលកំណត់ ឬស្វែងរក Output Directory លើ User Accounts ផ្សេងៗ\n- រក្សាទុកកូដ និងទម្រង់ Standalone Executable ដំណើរការយ៉ាងរលូនលើគ្រប់ម៉ាស៊ីន (Plug and Play)"
+  "changelog": "- 3D Glassmorphism & Liquid macOS Dark Studio UI រចនាសម្ព័ន្ធ Sidebar ទំនើប ស្រស់ស្អាត\n- Auto Scheduler: មុខងារដំណើរការកាត់ត និង Render ច្រើន Folder ស្វ័យប្រវត្តិតាមជួរ\n- Auto-Resume Skip Mode: រំលងភាគដែលបាន Render រួចរាល់ដោយស្វ័យប្រវត្តិ (⏭️ រួចរាល់ស្រាប់)\n- Robust Process & Memory Management: ការពារសុវត្ថិភាព Thread Isolation និង Auto-Garbage Collection មិនគាំងបិទ Tool ពេលដំណើរការរាប់សិបភាគ\n- Auto Temp Cleanup & Clear Temp Button: សម្អាតឯកសារបណ្ដោះអាសន្នក្នុង temp_render និង temp_tts ដោយស្វ័យប្រវត្តិពេល render ចប់ និងមានប៊ូតុងចុចសម្អាតភ្លាមៗលើ GUI\n- Cryptographic Hardware Licensing: ប្រព័ន្ធ License Key សុវត្ថិភាពខ្ពស់ បង្ហាញស្ថានភាព និងថ្ងៃផុតកំណត់លើ Sidebar ព្រមទាំងផ្ទាំងបញ្ចូល Key ងាយស្រួល\n- Pure Silent Subprocess: បំបាត់ផ្ទាំង Terminal ខ្មៅៗទាំងស្រុងពេលបើក ឬដំណើរការមុខងារ\n- Smart Drama Subtitle Engine: Whisper AI ចាប់សំឡេងច្បាស់ល្អ និងបកប្រែជាភាសាខ្មែរតាមសាច់រឿងរលូន"
 }
